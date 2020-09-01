@@ -52,17 +52,15 @@
 5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity
 -->
-<!--
+
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Karandeep's Github Stats" src="https://
-github-readme-stats-khaki-three.vercel.app
-/api?username=Karandeep07&show_icons=true&hide_border=true" />
-</details> -->
-![Karandeep's github stats](https://github-readme-stats-khaki-three.vercel.app/api?username=Karandeep07)
+  <img align="left" alt="Karandeep's Github Stats" src="https://github-readme-stats-khaki-three.vercel.app/api?username=Karandeep07" />
+</details> 
+
 
 
 

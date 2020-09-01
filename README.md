@@ -5,7 +5,7 @@
 <!-- - 🔭 I’m currently working on a [website]! -->
 
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to work with company's for internship
+- 👯 I’m looking to work with some companies for internship
 - 🥅 2020 Goals: Contribute more to Open Source projects & Internships
 - ⚡ Fun fact: I love to draw and play guitar & games
 

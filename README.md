@@ -58,7 +58,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://
+  <img align="left" alt="Karandeep07 Github Stats" src="https://
 github-readme-stats-sigma-blond.vercel.app/api?username=Karandeep07&show_icons=true&hide_border=true" />
 
 </details>

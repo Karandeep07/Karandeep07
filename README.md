@@ -52,15 +52,16 @@
 5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity
 -->
-<!--
+
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://
+github-readme-stats-sigma-blond.vercel.app/api?username=Karandeep07&show_icons=true&hide_border=true" />
 
-</details> -->
+</details>
 
 [twitter]: https://twitter.com/padam_KD
 <!-- [instagram]: https://instagram.com/ -->

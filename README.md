@@ -1,10 +1,11 @@
-### Hi there, I'm Karandeep 👋
+# Hi there, I'm Karandeep 👋
 
 ## A passionate Developer and Student!
 
 <!-- - 🔭 I’m currently working on a [website]! -->
 
 - 🌱 I’m currently learning everything
+- 👯 I’m looking to work with company's for internship
 - 🥅 2020 Goals: Contribute more to Open Source projects & Internships
 - ⚡ Fun fact: I love to draw and play guitar & games
 
@@ -14,7 +15,7 @@
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Karandeep07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Karandeep07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Karandeep07 | Email" width="22px" src="mailto:https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Karandeep07 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 <!-- [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />

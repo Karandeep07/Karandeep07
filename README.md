@@ -50,4 +50,4 @@
 [twitter]: https://twitter.com/padam_KD
 <!-- [instagram]: https://instagram.com/ -->
 [linkedin]: https://www.linkedin.com/in/karandeep-singh-padam-93a51b19b/
-[email]: karandeeppadam928@gmail.com
+[email]: <a href="mailto:karandeeppadam928@gmail.com">

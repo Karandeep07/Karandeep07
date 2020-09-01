@@ -58,7 +58,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Karandeep's Github Stats" src="https://github-readme-stats-khaki-three.vercel.app/api?username=Karandeep07&count_private=true&show_icons=true" />
+  <img align="left" alt="Karandeep's Github Stats" src="https://github-readme-stats-khaki-three.vercel.app/api?username=Karandeep07&show_icons=true&include_all_commits" />
 </details> 
 
 

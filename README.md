@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to work with some companies for internship
-- 🥅 2020 Goals: Contribute more to Open Source projects & Internships
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar & games
 
 ### Connect with me:

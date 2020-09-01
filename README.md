@@ -62,7 +62,7 @@
 github-readme-stats-khaki-three.vercel.app
 /api?username=Karandeep07&show_icons=true&hide_border=true" />
 </details> -->
-[![Karandeep's github stats](https://github-readme-stats.vercel.app/api?username=Karandeep07)]
+![Karandeep's github stats](https://github-readme-stats-khaki-three.vercel.app/api?username=Karandeep07)
 
 
 

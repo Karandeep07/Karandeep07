@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to work with some companies for internship
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar & games
+- ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
 

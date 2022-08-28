@@ -16,7 +16,7 @@
 [<img align="left" alt="Karandeep07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="Karandeep07 | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 <a href="mailto:karandeeppadam928@gmail.com">
-<img align="left" alt="Karandeep07 | Email" width="32px" src="https://image.flaticon.com/icons/png/512/732/732200.png" /></a><!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg -->
+<img align="left" alt="Karandeep07 | Email" width="32px" src="https://cdn-icons-png.flaticon.com/512/2875/2875435.png" /></a><!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg -->
 <!-- [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />

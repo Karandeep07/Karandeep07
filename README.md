@@ -1,15 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
 My name **Karandeep** and I'm a computer engineer from India. Here's some info about me!
 
-#### ⏳ I'm currently learning
+### ⏳ I'm currently learning
 - Django
 - Machine Learning & Data Science
 
-#### 💻 I'm Currently Working On
+### 💻 I'm Currently Working On
 - Python game
 
-#### 🌱 Interests:
+### 🌱 Interests:
 - Software development
 - Automation
 - Guitar

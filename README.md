@@ -25,3 +25,5 @@ My name **Karandeep** and I'm a computer engineer from India. Here's some info a
 <p align="center">
   <img align="center" alt="Karandeep's Github Stats" src="https://github-readme-stats-khaki-three.vercel.app/api?username=Karandeep07&show_icons=true&include_all_commits=true&theme=dark" />
   </p>
+  
+  <!-- Add total contribution stat -->

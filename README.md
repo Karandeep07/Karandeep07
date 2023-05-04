@@ -29,6 +29,4 @@ My name **Karandeep** and I'm a computer engineer. Here's some info about me!
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karandeep07&" alt="karandeep07" /></p>
 
   
-  <!-- Add total contribution stat -->
-  
   

@@ -3,7 +3,7 @@
 My name **Karandeep** and I'm a computer engineer. Here's some info about me!
 
 ### ⏳ I'm currently learning
-- Django
+- C# <!--Django-->
 - Machine Learning & Data Science
 
 ### 💻 I'm Currently Working On
@@ -11,7 +11,6 @@ My name **Karandeep** and I'm a computer engineer. Here's some info about me!
 
 ### 🌱 Interests:
 - Software development
-- Automation
 - Guitar
 
 💬 Reach me by email or LinkedIn! karandeeppadam928@gmail.com | https://www.linkedin.com/in/karandeep7/

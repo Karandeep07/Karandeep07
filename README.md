@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name **Karandeep** and I'm a computer engineer. Here's some info about me!
+My name is **Karandeep**, and I'm a computer engineer. Here's some information about me!
 
 ### ⏳ I'm currently learning
 - C# <!--Django-->
 - Machine Learning & Data Science
 
-### 💻 I'm Currently Working On
+### 💻 I'm currently working on
 - Python game
 
 ### 🌱 Interests:

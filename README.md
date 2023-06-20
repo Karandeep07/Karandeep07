@@ -1,19 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is **Karandeep**, and I'm a computer engineer. Here's some information about me!
+My name is **Karandeep**, and I'm a computer engineer. Welcome to my GitHub profile!<br>Here's some information about me:
 
-### ⏳ I'm currently learning
+### ⏳ Currently learning
 - C#
 - ML & Data Science
 
-### 💻 I'm currently working on
-- Python game <!--Personal Website/Portfolio Web-->
+### 💻 Currently working on
+- Alien Invasion 
+- Web Portfolio
 
-### 🌱 Interests:
+### 🌱 Interests
 - Software development
-- Guitar
+- Playing the guitar
 
-💬 Reach me by email or LinkedIn! karandeeppadam928@gmail.com | https://www.linkedin.com/in/karandeep7/
+💬 Reach me via email at karandeeppadam928@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/karandeep7/)
 
 <br />
 

@@ -24,7 +24,7 @@ My name is **Karandeep**, and I'm a computer engineer. Welcome to my GitHub prof
 <!-- 
 <p align="center">
   <img align="center" alt="Karandeep's Github Stats" src="https://github-readme-stats-khaki-three.vercel.app/api?username=Karandeep07&show_icons=true&include_all_commits=true&theme=dark" />
-  </p> -->
+</p> -->
   
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karandeep07&" alt="karandeep07" /></p>
 

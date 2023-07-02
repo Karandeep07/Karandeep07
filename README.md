@@ -12,7 +12,7 @@ My name is **Karandeep**, and I'm a computer engineer. Welcome to my GitHub prof
 
 ### 🌱 Interests
 - Software development
-- Playing the guitar
+- Playing guitar
 
 💬 Reach me via email at karandeeppadam928@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/karandeep7/)
 
